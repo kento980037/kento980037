@@ -13,7 +13,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Certificate</h3>
 <p align="left">
   <a href="https://google.accredible.com/8d5f8cf0-4028-45f5-a0cf-8e42a79e5f4c">
     <img src="https://github.com/kento980037/kento980037/assets/82075582/e8afb221-7f68-4b6a-bd25-1c49c66b0e18" width="100"/>
